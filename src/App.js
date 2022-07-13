@@ -53,7 +53,7 @@ function App() {
       {/*Note:
         * Don’t put quotes around curly braces when embedding a JavaScript expression in an attribute. 
         * We should either use quotes (for string values) or curly braces (for expressions), but not both in the same attribute.
-        * Use camelCase for property name
+        * Use camelCase for property name.
       */}
       <a href ={url}>Click Here!</a> {/*Here quotes are not put around curly braces */}
     </div>
